@@ -1,6 +1,5 @@
 # How to Build a Better NFT Marketplace with React, Solidity, and CometChat
 
-Read the full tutorial here: [**>> How to Build a Better NFT Marketplace with React, Solidity, and CometChat**](https://daltonic.github.io)
 
 This example shows How to Build a Better NFT Marketplace with React, Solidity, and CometChat:
 
@@ -51,7 +50,6 @@ Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEw
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Truffle](https://trufflesuite.com/)
