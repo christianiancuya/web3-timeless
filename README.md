@@ -29,7 +29,7 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/timelessNFT PROVIDER_NAME
+    git clone https://github.com/nftbigdev/web3-timeless PROVIDER_NAME
     cd PROVIDER_NAME # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
@@ -46,7 +46,7 @@ To run the demo follow these steps:
 
 If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
 
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/timelessNFT/issues). We're here to help ✌️
+Questions about running the demo? [Open an issue](https://github.com/nftbigdev/web3-timeless/issues). We're here to help ✌️
 Access the [Teaching Guide Here](https://docs.google.com/document/d/13bBRyAO0bEwRt776FXbYgWm6-OBFiUu6zTeOgRbXXyI/edit?usp=sharing).
 
 ## Useful links
